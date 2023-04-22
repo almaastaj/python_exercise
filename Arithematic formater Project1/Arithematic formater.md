@@ -4,8 +4,8 @@
 
 ## Situations that will return an error: (Constraints)
 
-1. The limit is five, anything more will return: Error: Too many problems.
-2. function will accept are addition and subtraction.Error: Operator must be '+' or '-'.
+1. The limit is five, anything more will return: **Error: Too many problems.**
+2. function will accept are addition and subtraction. **Error: Operator must be '+' or '-'.**
 3. Each number (operand) should only contain digits. Otherwise, the function will return:
    **Error: Numbers must only contain digits.**
 4. Each operand (aka number on each side of the operator) has a max of four digits in width.
